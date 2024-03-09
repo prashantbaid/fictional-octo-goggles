@@ -1,7 +1,7 @@
 {
   "name": "OTT Platforms Video Forward/Rewind with Arrow Keys",
   "version": "1.0",
-  "description": "Forward and rewind video playback from OTT platforms like Jiocinema with keyboard arrow keys",
+  "description": "Forward and rewind video playback on OTT platforms like Jiocinema with keyboard arrow keys",
   "manifest_version": 3,
   "content_scripts": [
     {

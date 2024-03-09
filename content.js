@@ -7,8 +7,6 @@ const domLoaded = () => {
 
         const videos = document.getElementsByTagName('video');
 
-        console.log('videos ', videos);
-
         if (videos.length > 0) {
             const video = videos[0];
 
