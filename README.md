@@ -1,3 +1,1 @@
-#OTT platforms video Forward/Rewind with arrow keys
-
-Forward and rewind video playback from OTT platforms like Jiocinema with keyboard arrow keys
+Take back the control to forward and rewind video playback on OTT platforms like Jiocinema, SonyLiv, etc with keyboard arrow keys.
